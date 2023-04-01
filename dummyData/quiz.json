@@ -1,0 +1,69 @@
+ {    "idQuiz" : 1,
+        "timer" : "30:00",
+        "dataQuiz" :  [
+
+            {
+                "id:":1,
+                 "pertanyaan" : "Judul pemograman ini adalah ",
+                 "option" : {"opsi1" : "Data Analis", "opsi2": "pemograman", "opsi3": "testing", "opsi4": "coba" },
+                 "nomor" : 1
+            },
+            {
+                "id:":2,
+                "pertanyaan" : "Judul pemograman ini adalah ",
+                "option" : {"opsi1" : "Data Analis", "opsi2": "pemograman", "opsi3": "testing", "opsi4": "coba" },
+                "nomor" : 2
+            },
+            {
+                "id:":3,
+                "pertanyaan" : "Judul pemograman ini adalah ",
+                "option" : {"opsi1" : "Data Analis", "opsi2": "pemograman", "opsi3": "testing", "opsi4": "coba" },
+                "nomor" : 3
+            },
+            {
+                "id:":4,
+                "pertanyaan" : "Judul pemograman ini adalah ",
+                "option" : {"opsi1" : "Data Analis", "opsi2": "pemograman", "opsi3": "testing", "opsi4": "coba" },
+                "nomor" : 4
+            },
+            {
+                "id:":5,
+                "pertanyaan" : "Judul pemograman ini adalah ",
+                "option" : {"opsi1" : "Data Analis", "opsi2": "pemograman", "opsi3": "testing", "opsi4": "coba" },
+                "nomor" : 5
+            },
+            {
+                "id:":6,
+                "pertanyaan" : "Judul pemograman ini adalah ",
+                "option" : {"opsi1" : "Data Analis", "opsi2": "pemograman", "opsi3": "testing", "opsi4": "coba" },
+                "nomor" : 6
+            },
+            {
+                "id:":7,
+                "pertanyaan" : "Judul pemograman ini adalah ",
+                "option" : {"opsi1" : "Data Analis", "opsi2": "pemograman", "opsi3": "testing", "opsi4": "coba" },
+                "nomor" : 7
+            },
+            {
+                "id:":8,
+                "pertanyaan" : "Judul pemograman ini adalah ",
+                "option" : {"opsi1" : "Data Analis", "opsi2": "pemograman", "opsi3": "testing", "opsi4": "coba" },
+                "nomor" : 8
+            },
+            {
+                "id:":9,
+                "pertanyaan" : "Judul pemograman ini adalah ",
+                "option" : {"opsi1" : "Data Analis", "opsi2": "pemograman", "opsi3": "testing", "opsi4": "coba" },
+                "nomor" : 9
+            },
+            {
+                "id:":10,
+                "pertanyaan" : "Judul pemograman ini adalah ",
+                "option" : {"opsi1" : "Data Analis", "opsi2": "pemograman", "opsi3": "testing", "opsi4": "coba" },
+                "nomor" : 10
+            }
+        ]
+
+ }
+
+

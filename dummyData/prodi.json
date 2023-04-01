@@ -1,0 +1,34 @@
+[
+  {
+    "category_id": 15,
+    "category_name": "TEKNIK GEOMATIKA"
+  },
+  {
+    "category_id": 17,
+    "category_name": "TEKNIK MESIN"
+  },
+  {
+    "category_id": 21,
+    "category_name": "TEKNIK ELEKTRO"
+  },
+  {
+    "category_id": 35,
+    "category_name": "TEKNIK KIMIA"
+  },
+  {
+    "category_id": 36,
+    "category_name": "TEKNIK SIPIL"
+  },
+  {
+    "category_id": 37,
+    "category_name": "TEKNIK GEOMATIKA"
+  },
+  {
+    "category_id": 45,
+    "category_name": "MAGISTER TEKNIK SIPIL"
+  },
+  {
+    "category_id": 51,
+    "category_name": "TEKNIK ELEKTRONIKA"
+  }
+]

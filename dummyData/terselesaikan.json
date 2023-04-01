@@ -1,0 +1,21 @@
+[
+    {"id": 1,
+    "title": "Materi Perkuliahan 1", 
+    "statusPerkuliahan": true
+    },
+    {"id": 2,
+    "title": "Materi Perkuliahan 2", 
+    "statusPerkuliahan": true
+    },
+    {"id": 3,
+    "title": "Materi Perkuliahan 3", 
+    "statusPerkuliahan": true
+    },
+    {"id": 4,
+    "title": "Materi Perkuliahan 4", 
+    "statusPerkuliahan": true
+    }
+    
+    
+
+]

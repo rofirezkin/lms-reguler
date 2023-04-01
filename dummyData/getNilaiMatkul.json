@@ -1,0 +1,74 @@
+[
+    {
+        "idMateri": 1,
+        "namaMateri": "materi Perkuliahan 1",
+        "quiz": [
+            {
+                "idQuiz": 1,
+                "namaQuiz" : "quiz 1"
+        
+        }
+        ],
+        "tugas": [
+            {
+                "idTugas": 1,
+                "namaQuiz" : "Tugas 1"
+        
+        }
+        ]
+    },
+    {
+        "idMateri": 2,
+        "namaMateri": "materi Perkuliahan 2",
+        "quiz": [
+            {
+                "idQuiz": 2,
+                "namaQuiz" : "quiz 2"
+        
+        }
+        ],
+        "tugas": [
+            {
+                "idTugas": 2,
+                "namaQuiz" : "Tugas 2"
+        
+        }
+        ]
+    },
+    {
+        "idMateri": 3,
+        "namaMateri": "materi Perkuliahan 3",
+        "quiz": [
+            {
+                "idQuiz": 3,
+                "namaQuiz" : "quiz 3"
+        
+        }
+        ],
+        "tugas": [
+            {
+                "idTugas": 3,
+                "namaQuiz" : "Tugas 3"
+        
+        }
+        ]
+    },
+    {
+        "idMateri": 4,
+        "namaMateri": "materi Perkuliahan 4",
+        "quiz": [
+            {
+                "idQuiz": 4,
+                "namaQuiz" : "quiz 4"
+        
+        }
+        ],
+        "tugas": [
+            {
+                "idTugas": 4,
+                "namaQuiz" : "Tugas 4"
+        
+        }
+        ]
+    }
+]

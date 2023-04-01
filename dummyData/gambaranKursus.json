@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "tahun": "2022",
+    "semester": "genap",
+    "namaMatakuliah": "Pemograman 1",
+    "persentasiMatakuliah": 20
+  },
+  {
+    "id": 2,
+    "tahun": "2022",
+    "semester": "genap",
+    "namaMatakuliah": "Data Sains 1",
+    "persentasiMatakuliah": 30
+  },
+  {
+    "id": 2,
+    "tahun": "2022",
+    "semester": "genap",
+    "namaMatakuliah": "Artificial Intelligence 1",
+    "persentasiMatakuliah": 30
+  },
+  {
+    "id": 2,
+    "tahun": "2022",
+    "semester": "genap",
+    "namaMatakuliah": "Javascript Basic",
+    "persentasiMatakuliah": 60
+  },
+  {
+    "id": 2,
+    "tahun": "2022",
+    "semester": "genap",
+    "namaMatakuliah": "Backend Developer",
+    "persentasiMatakuliah": 60
+  }
+]

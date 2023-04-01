@@ -1,0 +1,20 @@
+[
+  {
+    "chatId": 13344,
+    "lastChatDate": "datetime",
+    "lastChatContent": "halo selamat siang",
+    "partnerId": 1333
+  },
+  {
+    "chatId": 222,
+    "lastChatDate": "datetime",
+    "lastChatContent": "halo selamat siang",
+    "partnerId": 2332
+  },
+  {
+    "chatId": 333,
+    "lastChatDate": "datetime",
+    "lastChatContent": "halo selamat siang",
+    "partnerId": 133344
+  }
+]

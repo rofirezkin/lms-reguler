@@ -1,0 +1,14 @@
+{
+        "id": 1,
+        "title" : "Tugas 01",
+        "namaMataKuliah": "Pemograman",
+        "startDate": "Jumat, 20 September",
+        "startTime":"22:00",
+        "endDate": "Sabtu, 30 September",
+        "endTime": "22:00",
+        "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi est, dapibus in orci porta, iaculis sagittis libero. In lobortis elit in egestas ...",
+        "statusSubmit": false,
+        "statusPenilaian":false,
+        "komentar":"Tidak ada Komentar",
+        "waktu tersisa": "10 jam 25 menit 7 detik"
+}

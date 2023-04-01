@@ -1,0 +1,14 @@
+[{
+    "name" : "Dummy User",
+    "role" : "dosen",
+    "NIP" :4456599,
+    "imageUrl": "test/data"
+},
+
+{
+    "name":"Dumy Mahasiswa",
+    "role" :"Mahasiswa",
+    "NIP": 31234553,
+    "imageUrl": "test/data"
+}
+]

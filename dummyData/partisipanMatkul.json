@@ -1,0 +1,8 @@
+[
+        { "id": 1,"nama": "rizki saputra", "nilaiQuiz" : "80",  "nim": 12232442, "imageUrl": "https:/sdjdfkjd","aksesTerakhir": "10-10-2022"},
+        { "id": 2,"nama": "adamsyah","nilaiQuiz" : "80",   "nim": 12232442, "imageUrl": "https:/sdjdfkjd","aksesTerakhir": "10-10-2022"},
+        { "id": 3,"nama": "rita puspita","nilaiQuiz" : "80",   "nim": 12232442, "imageUrl": "https:/sdjdfkjd","aksesTerakhir": "10-10-2022"},
+        { "id": 4,"nama": "reza adam","nilaiQuiz" : "80", "nim": 12232442, "imageUrl": "https:/sdjdfkjd","aksesTerakhir": "10-10-2022"},
+        { "id": 5,"nama": "risa sastia","nilaiQuiz" : "80",   "nim": 12232442, "imageUrl": "https:/sdjdfkjd","aksesTerakhir": "10-10-2022"},
+        { "id": 6,"nama": "anisa","nilaiQuiz" : "80",   "nim": 12232442, "imageUrl": "https:/sdjdfkjd","aksesTerakhir": "10-10-2022"}
+    ]

@@ -1,0 +1,21 @@
+[{ 
+        "id": 1,
+        "nama": "Nama Kompetensi 1"
+    },
+    { 
+        "id": 2,
+        "nama": "Nama Kompetensi 2"
+    },
+    { 
+        "id": 3,
+        "nama": "Nama Kompetensi 3"
+    },
+    { 
+        "id": 4,
+        "nama": "Nama Kompetensi 4"
+    },
+    { 
+        "id": 5,
+        "nama": "Nama Kompetensi 5"
+    }
+]

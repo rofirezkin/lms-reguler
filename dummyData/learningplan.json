@@ -1,0 +1,37 @@
+{
+    "namaProgramStudi": "S1 Teknik Telekomunikasi",
+    "semester":"Semester 1",
+    "listMataKuliah": [
+        {
+            "id" : 1,
+            "namaMatakuliah": "Data Sains",
+            "jumlahSks": 2,
+            "kodeMatkul": "334411"
+        },
+        {
+            "id" : 1,
+            "namaMatakuliah": "Data Sains",
+            "jumlahSks": 2,
+            "kodeMatkul": "334411"
+        },
+        {
+            "id" : 1,
+            "namaMatakuliah": "Data Sains",
+            "jumlahSks": 2,
+            "kodeMatkul": "334411"
+        }
+        ,
+        {
+            "id" : 1,
+            "namaMatakuliah": "Data Sains",
+            "jumlahSks": 2,
+            "kodeMatkul": "334411"
+        },
+        {
+            "id" : 1,
+            "namaMatakuliah": "Data Sains",
+            "jumlahSks": 2,
+            "kodeMatkul": "334411"
+        }
+    ]
+}

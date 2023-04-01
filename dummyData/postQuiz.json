@@ -1,0 +1,18 @@
+{
+  "quizId": 1,
+
+  "answer": [
+    {
+      "questionId": 1,
+      "answerId": 1
+    },
+    {
+      "questionId": 2,
+      "answerId": 3
+    },
+    {
+      "questionId": 3,
+      "answerId": 3
+    }
+  ]
+}

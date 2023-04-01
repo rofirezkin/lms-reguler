@@ -1,0 +1,26 @@
+[
+    {"idKomepetensi": 1,
+    "namaKompetensi" : "Kompetensi 1"
+
+},
+{"idKomepetensi": 2,
+"namaKompetensi" : "Kompetensi 2"
+
+},
+{"idKomepetensi": 3,
+"namaKompetensi" : "Kompetensi 3"
+
+},
+{"idKomepetensi": 4,
+"namaKompetensi" : "Kompetensi 4"
+
+},
+{"idKomepetensi": 5,
+"namaKompetensi" : "Kompetensi 5"
+
+},
+{"idKomepetensi": 6,
+"namaKompetensi" : "Kompetensi 6"
+
+}
+]

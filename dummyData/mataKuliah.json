@@ -1,0 +1,18 @@
+[
+  {
+    "idMatakuliah": 1,
+    "namaMatakuliah": "Bengkel Pemograman 1"
+  },
+  {
+    "idMatakuliah": 2,
+    "namaMatakuliah": "Data Sains  1"
+  },
+  {
+    "idMatakuliah": 3,
+    "namaMatakuliah": "Artificial Intellegence 1"
+  },
+  {
+    "idMatakuliah": 4,
+    "namaMatakuliah": "Kewarganegaraan"
+  }
+]

@@ -1,0 +1,24 @@
+[
+    {
+
+        "id" : 1,
+        "imageUrl": "htpps/data.jpg",
+        "aksesTerakhir": "2 hari yang lalu",
+        "namaMahasiswa": "Robby disakti"
+    },
+    {
+
+        "id" : 2,
+        "imageUrl": "htpps/data.jpg",
+        "aksesTerakhir": "2 hari yang lalu",
+        "namaMahasiswa": "M Rizal"
+    },
+    {
+
+        "id" : 3,
+        "imageUrl": "htpps/data.jpg",
+        "aksesTerakhir": "2 hari yang lalu",
+        "namaMahasiswa": "Indah Kusuma"
+    }
+
+]

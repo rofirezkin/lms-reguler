@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "nama": "Rizal",
+  "nim": 94868422,
+  "aksesTerakhir": "5 Hari Lalu",
+  "judulFeedback": "Kursus ny sangat mantap",
+  "imageUrl": "https://dfjjd",
+  "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eget quam in nulla bibendum accumsan. Curabitur euismod dui",
+  "balasan": [
+    {
+      "id": 3,
+      "nama": "Sarah",
+      "nim": 94868422,
+      "aksesTerakhir": "5 Hari Lalu",
+      "judulFeedback": "Kursus ny sangat mantap",
+      "imageUrl": "https://dfjjd",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eget quam in nulla bibendum accumsan. Curabitur euismod dui"
+    },
+    {
+      "id": 6,
+      "nama": "Tantri",
+      "nim": 94868422,
+      "aksesTerakhir": "5 Hari Lalu",
+      "judulFeedback": "Kursus ny sangat mantap",
+      "imageUrl": "https://dfjjd",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eget quam in nulla bibendum accumsan. Curabitur euismod dui"
+    }
+  ]
+}

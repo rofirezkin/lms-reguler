@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350016805969",
+    "project_id": "elearningreguler",
+    "storage_bucket": "elearningreguler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350016805969:android:f6f3ab76471789ef28ac70",
+        "android_client_info": {
+          "package_name": "com.elearningunjani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350016805969-voogtp6sop57kdugp343cbftcfkmgi0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDc-ZeFYrF_oyB_zdVCpixMQ-EaITiKYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350016805969-voogtp6sop57kdugp343cbftcfkmgi0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

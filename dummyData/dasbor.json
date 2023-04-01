@@ -1,0 +1,32 @@
+{
+    "timeline" : {
+    "data": [{"id": 1,"title" : "Pengumpulan Quiz 01", "time":"20:00", "mataKuliah":"Pemograman"},
+    {"id": 2,"title" : "Pengumpulan Quiz 01", "time":"20:00", "mataKuliah":"Pemograman"}
+    ]},
+    "gambaranKursus" : {
+        "data": [
+            {"id": 1,"namaMataKuliah": "Sejarah", "semester": "2021/Genap", "progress": 20},
+            {"id": 2,"namaMataKuliah": "Sejarah", "semester": "2021/Genap", "progress": 20}
+        ]
+    },
+    "course" : {
+        "data": [
+           {"id": 1, "namaMatakuliah": "Bahasa Inggris", "namaDosen":"Rizki Tirta","kodeDosen": 313452353},
+           {"id": 2, "namaMatakuliah": "Pemograman Multimedia", "namaDosen":"Datya Rukyat","kodeDosen": 313452353},
+           { "id": 3,"namaMatakuliah": "Sastra Indonesia", "namaDosen":"Sidiq jaria","kodeDosen": 37452353},
+           { "id": 4,"namaMatakuliah": "Data Sains", "namaDosen":"Sinta Rosita","kodeDosen": 3134453}
+           
+        ]
+    },
+    "items" : {
+        "data": [
+           { "id": 1,"namaMatakuliah": "Tugas Pemograman Multimedia", "namaDosen":"Rizki Tirta","kodeDosen": 313452353},
+           {"id": 2, "namaMatakuliah": "Quiz Data Sains", "namaDosen":"Datya Rukyat","kodeDosen": 313452353},
+           {"id": 3, "namaMatakuliah": "Quiz Bahasa Indonesia", "namaDosen":"Sidiq jaria","kodeDosen": 37452353},
+           {"id": 4, "namaMatakuliah": "Quiz Data Sains", "namaDosen":"Sinta Rosita","kodeDosen": 3134453}
+           
+        ]
+    }
+
+    
+}

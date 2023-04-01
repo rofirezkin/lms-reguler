@@ -1,0 +1,27 @@
+{
+    "categoryId" : 2,
+    "categoryName" : "Teknik Fisika",
+    "fakultasName" : "Fakultas Teknik",
+    "semester" : [
+        {
+            "idSemester" : 1,
+            "semester" : "semester 1"
+        },
+        {
+            "idSemester" : 2,
+            "semester" : "semester 2"
+        },
+        {
+            "idSemester" : 3,
+            "semester" : "semester 3"
+        },
+        {
+            "idSemester" : 4,
+            "semester" : "semester 4"
+        },
+        {
+            "idSemester" : 5,
+            "semester" : "semester 5"
+        }
+    ]
+}
